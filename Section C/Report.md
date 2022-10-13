@@ -1,0 +1,1 @@
+The Space complexity for the solution is O(1) as the is no extra space that is used
